@@ -20,7 +20,10 @@
 - Unity
 - Spring
 
-### Cada projeto foi criado com o objetivo de explorar e aplicar diferentes aspectos dessas tecnologias, oferecendo soluções robustas e eficientes. Sinta-se à vontade para explorar o código e colaborar!## Español### Este repositorio contiene proyectos y ejemplos desarrollados utilizando una variedad de tecnologías modernas. A continuación se presentan las principales herramientas y lenguajes utilizados:- JavaScript
+### Cada projeto foi criado com o objetivo de explorar e aplicar diferentes aspectos dessas tecnologias, oferecendo soluções robustas e eficientes. Sinta-se à vontade para explorar o código e colaborar!
+
+## Español
+### Este repositorio contiene proyectos y ejemplos desarrollados utilizando una variedad de tecnologías modernas. A continuación se presentan las principales herramientas y lenguajes utilizados:- JavaScript
 - Node.js
 - React.js
 - Angular
@@ -29,7 +32,10 @@
 - Unity
 - Spring
 
-### Cada proyecto fue creado con el objetivo de explorar y aplicar diferentes aspectos de estas tecnologías, ofreciendo soluciones robustas y eficientes. ¡Siéntete libre de explorar el código y colaborar!## English### This repository contains projects and examples developed using a variety of modern technologies. Below are the main tools and languages used:- JavaScript
+### Cada proyecto fue creado con el objetivo de explorar y aplicar diferentes aspectos de estas tecnologías, ofreciendo soluciones robustas y eficientes. ¡Siéntete libre de explorar el código y colaborar!
+
+## English
+### This repository contains projects and examples developed using a variety of modern technologies. Below are the main tools and languages used:- JavaScript
 - Node.js
 - React.js
 - Angular
