@@ -7,7 +7,11 @@
 ## Português:
 "Este repositório serve para orientar como ver meu GitHub. Dependendo do que você está buscando, leia atentamente este repositório."
 
-# Tecnologias Usadas / Tecnologías Usadas / Technologies Used## Português### Este repositório contém projetos e exemplos desenvolvidos usando uma variedade de tecnologias modernas. Abaixo estão as principais ferramentas e linguagens utilizadas:- JavaScript
+# Tecnologias Usadas / Tecnologías Usadas / Technologies Used
+
+## Português
+
+### Este repositório contém projetos e exemplos desenvolvidos usando uma variedade de tecnologias modernas. Abaixo estão as principais ferramentas e linguagens utilizadas:- JavaScript
 - Node.js
 - React.js
 - Angular
