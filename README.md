@@ -42,6 +42,8 @@
   -https://github.com/lordars/AppMVC-API-Migration
   -https://github.com/lordars/Plurais /not public  Game Sony Music
   -https://github.com/lordars/SystemaDeEstacionamento.git
+  -https://github.com/lordars/trilha-net-poo-desafio
+  -https://github.com/lordars/trilha-net-explorando-desafio
 - Unity
   -https://github.com/lordars/Plurais /not public  Game Sony Music
   -https://lordars.github.io/Unity3dPorfolio/
@@ -101,7 +103,9 @@
   -https://github.com/lordars/rpgGame
   -https://github.com/lordars/AppMVC-API-Migration
   -https://github.com/lordars/Plurais /not public  Game Sony Music
-   -https://github.com/lordars/SystemaDeEstacionamento.git
+  -https://github.com/lordars/SystemaDeEstacionamento.git
+  -https://github.com/lordars/trilha-net-poo-desafio
+  -https://github.com/lordars/trilha-net-explorando-desafio
 - Unity
   -https://github.com/lordars/Plurais /not public  Game Sony Music
   -https://lordars.github.io/Unity3dPorfolio/
@@ -162,6 +166,8 @@
   -https://github.com/lordars/AppMVC-API-Migration
   -https://github.com/lordars/Plurais /not public  Game Sony Music
    -https://github.com/lordars/SystemaDeEstacionamento.git
+  -https://github.com/lordars/trilha-net-poo-desafio
+  -https://github.com/lordars/trilha-net-explorando-desafio
 - Unity
   -https://github.com/lordars/Plurais /not public  Game Sony Music
   -https://lordars.github.io/Unity3dPorfolio/
