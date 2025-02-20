@@ -68,7 +68,9 @@
 -   https://github.com/lordars/dio-avengers-api
 -   https://github.com/lordars/DioKlotinbasic
 - Flutter
--   https://github.com/lordars/umMaisParaJesusApp   
+-   https://github.com/lordars/umMaisParaJesusApp
+- Python
+-   https://github.com/lordars/Python.git
 
 ### Cada projeto foi criado com o objetivo de explorar e aplicar diferentes aspectos dessas tecnologias, oferecendo soluções robustas e eficientes. Sinta-se à vontade para explorar o código e colaborar!
 
@@ -131,7 +133,9 @@
 -   https://github.com/lordars/DioKlotinbasic
 - Flutter
 -   https://github.com/lordars/umMaisParaJesusApp   
-
+- Python
+-   https://github.com/lordars/Python.git
+  
 ### Cada proyecto fue creado con el objetivo de explorar y aplicar diferentes aspectos de estas tecnologías, ofreciendo soluciones robustas y eficientes. ¡Siéntete libre de explorar el código y colaborar!
 
 ## English
@@ -192,6 +196,8 @@
 -   https://github.com/lordars/dio-avengers-api
 -   https://github.com/lordars/DioKlotinbasic
 - Flutter
--   https://github.com/lordars/umMaisParaJesusApp   
+-   https://github.com/lordars/umMaisParaJesusApp
+-   - Python
+-   https://github.com/lordars/Python.git
 
 ### Each project was created with the goal of exploring and applying different aspects of these technologies, offering robust and efficient solutions. Feel free to explore the code and collaborate!
